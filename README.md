@@ -4,7 +4,7 @@ Projeto desenvolvido utilizando o Streamlit
 
 Link do site:
 
-link [https://previsao-renda-projetoebac.streamlit.app/]
+https://previsao-renda-projetoebac.streamlit.app/
 
 
 
